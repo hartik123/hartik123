@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hartik123)](https://github.com/hartik123/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=hartik123"/>
+
 <!-- Actual text -->
 ## You can find me on:
 <a href = "mailto:hartiksuhagiya10@gmail.com?subject='Hey there, nice connecting with you'" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
